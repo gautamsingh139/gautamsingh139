@@ -22,7 +22,7 @@
 <a href="https://github.com/gautamsingh139">
   <img align="left" alt="Gautam's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.instagram.com/gautamsingh139/">
+<a href="https://www.instagram.com/gautamrajput139/">
   <img align="left" alt="Gautam's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
