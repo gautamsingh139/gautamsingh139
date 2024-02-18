@@ -1,4 +1,3 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
 ![logo](https://github.com/gautamsingh139/gautamsingh139/blob/main/Github%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Gautam Singh</h1>
 <h3 align="center">A passionate Bachelor of Computer Applications from India</h3>
