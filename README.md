@@ -1,4 +1,3 @@
-# <h1 align="center">Gautam Singh</h1>
 
 <div align="center">
 
@@ -265,6 +264,8 @@ open_to:
   - Software Engineering Internships
   - AI/ML Engineering Roles
   - Research Collaborations
+
+---
 
 # Connect
 <div align="center"> <a href="mailto:gautamsr46@gmail.com"> <img src="https://img.shields.io/badge/Gmail-gautamsr46%40gmail.com-EA4335?style=for-the-badge"/> </a> <a href="https://linkedin.com/in/gautamsingh139"> <img src="https://img.shields.io/badge/LinkedIn-gautamsingh139?style=for-the-badge"/> </a> <a href="https://github.com/gautamsingh139"> <img src="https://img.shields.io/badge/GitHub-gautamsingh139?style=for-the-badge"/> </a> <a href="https://your-portfolio.vercel.app"> <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-7C3AED?style=for-the-badge"/> </a> </div>
