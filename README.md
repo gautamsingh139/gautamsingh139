@@ -54,6 +54,10 @@
 
 # About Me
 
+> *Tech-focused, research-oriented, socially aware, and project-driven candidate with growing industry exposure.*
+
+I love building impactful products that blend technology with human well-being.
+
 Software Engineer and AI Engineer focused on building production-grade systems that combine intelligent automation, scalable backend architecture, and modern user experiences.
 
 Currently pursuing a MCA (Master of Computer Applications) at Sharda   University while actively developing AI-powered applications, fintech systems, developer tooling, cloud-native products, and research-driven software.
