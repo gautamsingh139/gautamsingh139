@@ -212,26 +212,6 @@ Worked on mobile product engineering, deployment systems, authentication workflo
 
 ---
 
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gautamsingh139&theme=tokyonight&row=2&column=4&no-frame=true"/>
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gautamsingh139&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
 # Contribution Snake
 
 <div align="center">
