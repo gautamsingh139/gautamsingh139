@@ -1,6 +1,6 @@
-
 <div align="center">
 
+<!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:A855F7&text=Gautam%20Singh&fontColor=ffffff&fontSize=55&fontAlignY=40&desc=Software%20Engineer%20•%20AI%20Engineer%20•%20Product%20Builder&descAlignY=60"/>
 
 </div>
@@ -138,62 +138,6 @@ Worked on mobile product engineering, deployment systems, authentication workflo
 
 ---
 
-# Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|-------------|---------|
-| ___ | __ |
-| __ | __ |
-| __ | __ |
-| __ | __ |
-| Product Engineering | Multiple AI and Full Stack Systems |
-
-</div>
-
----
-
-# Certifications
-
-### AWS
-
-![](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge)
-
-### Oracle
-
-![](https://img.shields.io/badge/Oracle-Database%20Foundations-F80000?style=for-the-badge)
-
-### NPTEL
-
-![](https://img.shields.io/badge/NPTEL-Artificial%20Intelligence-0056D2?style=for-the-badge)
-
-### Cisco
-
-![](https://img.shields.io/badge/Cisco-Networking%20Fundamentals-1BA0D7?style=for-the-badge)
-
-### Google Cloud
-
-![](https://img.shields.io/badge/Google%20Cloud-Generative%20AI%20Academy-4285F4?style=for-the-badge)
-
----
-
-# Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge)](https://leetcode.com)
-
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge)](https://www.geeksforgeeks.org)
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge)](https://hackerrank.com)
-
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge)](https://codechef.com)
-
-</div>
-
----
-
 # GitHub Analytics
 
 <div align="center">
@@ -246,9 +190,33 @@ open_to:
   - Research Collaborations
 
 ---
+## 📫 Let's Connect
 
-# Connect
-<div align="center"> <a href="mailto:gautamsr46@gmail.com"> <img src="https://img.shields.io/badge/Gmail-gautamsr46%40gmail.com-EA4335?style=for-the-badge"/> </a> <a href="https://linkedin.com/in/gautamsingh139"> <img src="https://img.shields.io/badge/LinkedIn-gautamsingh139?style=for-the-badge"/> </a> <a href="https://github.com/gautamsingh139"> <img src="https://img.shields.io/badge/GitHub-gautamsingh139?style=for-the-badge"/> </a> <a href="https://your-portfolio.vercel.app"> <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-7C3AED?style=for-the-badge"/> </a> </div>
 <div align="center">
-"Building scalable software, intelligent systems, and impactful products."
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:A855F7"/> </div>
+
+**💼 Open for Collaboration & Internship Opportunities**
+
+<p>
+<a href="https://www.linkedin.com/in/gautamsingh139/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:gautamsr46@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=gautamrajput139&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350">
+
+---
+
+### 💫 *"Building scalable software, intelligent systems, and impactful products."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B2FBE,100:00D9FF&height=120&section=footer"/>
+
+</div>
